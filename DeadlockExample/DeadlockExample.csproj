@@ -203,6 +203,7 @@
     <None Include="Project_Readme.html" />
     <Content Include="Views\Home\Deadlock.cshtml" />
     <Content Include="Views\Home\NoDeadlock.cshtml" />
+    <Content Include="Views\Home\NoDeadlockConfigAwait.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
